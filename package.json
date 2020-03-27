@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-plugin-hero-pattern",
+  "version": "0.1.0",
+  "description": "Generate seemless repeatable SVG background patterns.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern.git"
+  },
+  "keywords": [
+    "vuepress",
+    "plugin",
+    "vuepress-plugin",
+    "svg",
+    "pattern",
+    "svg-pattern"
+  ],
+  "author": "xiaoluoboding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern/issues"
+  },
+  "homepage": "https://github.com/xiaoluoboding/vuepress-plugin-hero-pattern#readme",
+  "dependencies": {
+    "mini-svg-data-uri": "^1.1.3"
+  }
+}
