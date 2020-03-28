@@ -7,9 +7,9 @@
 </p>
 
 <p align="left">
-    <a href="https://www.npmjs.com/package/vuepress-plugin-hero-pattern"><img src="https://img.shields.io/npm/v/vuepress-plugin-hero-pattern.svg?maxAge=2592000"></a>
-    <a href="https://www.npmjs.com/package/vuepress-plugin-hero-pattern"><img src="https://img.shields.io/npm/dt/vuepress-plugin-hero-pattern.svg"></a>
-    <a href="https://raw.githubusercontent.com/vueblocks/vuepress-plugin-hero-pattern/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+  <a href="https://www.npmjs.com/package/vuepress-plugin-hero-pattern"><img src="https://img.shields.io/npm/v/vuepress-plugin-hero-pattern.svg?maxAge=2592000"></a>
+  <a href="https://www.npmjs.com/package/vuepress-plugin-hero-pattern"><img src="https://img.shields.io/npm/dt/vuepress-plugin-hero-pattern.svg"></a>
+  <a href="https://raw.githubusercontent.com/vueblocks/vuepress-plugin-hero-pattern/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
 Register a global `<HeroPattern />` component for VuePress.
@@ -95,6 +95,10 @@ Hero Pattern provide 87 kinds of pattern you can choose, check [pattern list](ht
 ## Slot
 
 `<HeroPattern />` component provide a custom slot, you can write some element on the generated pattern.
+
+## Related VuePress Plugin
+
+* [vuepress-plugin-geopattern](https://github.com/xiaoluoboding/vuepress-plugin-geopattern) - GeoPattern is a geopattern adapter for VuePress.
 
 ## License
 
